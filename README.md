@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sonar3d
 - 👀 I’m interested in Game theory, computer graphics, cryptography and mathematics.
-- 🌱 I’m currently learning computer graphics.
-- 💞️ I’m looking to collaborate on game development.
+
 
 
 <!---
