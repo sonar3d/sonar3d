@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonar3d
-- 👀 I’m interested in Game theory, computer graphics, cryptography and mathematics.
+- 👀 I’m interested in compilers, cryptography and mathematics.
 
 
 
